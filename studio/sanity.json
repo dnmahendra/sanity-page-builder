@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "yh0s1jyn",
+    "dataset": "production"
+  },
   "project": {
     "name": "Sanity Page Builder for Gatsby"
-  },
-  "api": {
-    "projectId": "9qgha09n",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
